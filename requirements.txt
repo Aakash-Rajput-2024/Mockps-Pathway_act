@@ -1,0 +1,29 @@
+# Core LangChain packages
+langchain>=1.0.0
+langchain-community>=0.4.0
+langchain-core>=1.0.0
+langchain-huggingface>=1.0.0
+langchain-chroma>=1.0.0
+
+# Embeddings and ML
+sentence-transformers>=2.2.2
+huggingface-hub>=0.35.0
+transformers>=4.30.0
+
+# Vector Database
+chromadb>=1.2.0
+
+# LLM Integration
+ollama>=0.0.17
+
+# Document Processing
+PyMuPDF>=1.22.5
+
+# Web Search
+googlesearch-python>=1.1.0
+
+# Utilities
+numpy>=1.26.0
+tqdm>=4.66.1
+requests>=2.32.0
+pydantic>=2.0.0
